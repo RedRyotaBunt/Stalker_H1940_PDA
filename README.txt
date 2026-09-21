@@ -1,4 +1,4 @@
-This is Stalker PDA, an .exe created to run on Windows Pocket model to re-create the legendary PDA from the S.T.A.L.K.E.R. series.
+This is Stalker PDA, an .exe created to run on Windows Pocket model for HP iPAQ H1940 to re-create the legendary PDA from the S.T.A.L.K.E.R. series.
 
 INSTALLATION:
 To install this, you'll need a build of Windows Mobile Device Center. 
@@ -8,3 +8,5 @@ It will create a folder named StalkerPDA. In there, you can put the sounds for p
 Exact file size limit hasn't been thoroughly tested but the program should read files equal or below 8mb.
 
 This program has been created or cosplaying purposes with the help of Claude.AI since my programming skills are still pretty limited.
+
+The RAR file has the single files in case someone is brave enough to sort through my mess and edit the .exe to add features.
