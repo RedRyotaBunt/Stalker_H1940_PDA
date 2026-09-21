@@ -6,6 +6,7 @@ Copy this .exe on the device and run it.
 It will create a folder named StalkerPDA. In there, you can put the sounds for power on, off and click (you'll need to name the files poweron.wav, poweroff.wav and click.wav), a logo in bmp format to appear in the background with a 14% opacity and a map in bmp format. 
 
 Exact file size limit hasn't been thoroughly tested but the program should read files equal or below 8mb.
+For copyright reasons I'm unable to provide said files here, you'll have to download them yourself. 
 
 This program has been created or cosplaying purposes with the help of Claude.AI since my programming skills are still pretty limited.
 
