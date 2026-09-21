@@ -9,4 +9,4 @@ Exact file size limit hasn't been thoroughly tested but the program should read 
 
 This program has been created or cosplaying purposes with the help of Claude.AI since my programming skills are still pretty limited.
 
-The RAR file has the single files in case someone is brave enough to sort through my mess and edit the .exe to add features.
+The RAR file has the single files in case someone is brave enough to sort through my mess and edit the .exe to add features. If anything is broken in this file (as I think it will be) please report it so i can at least try to fix it
